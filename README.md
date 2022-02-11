@@ -1,6 +1,7 @@
 # CSS-Odev3
 Bu repo [Kodluyoruz]("https://kodluyoruz.org") Front-End Eğitimi CSS bölümünde oluşturduğum üçüncü ödev. İçerisinde bir adet image klasörü, bir adet README dosyası, bir adet style.css, bir adet de index.html barındırıyor.
 
+![odev gorsel](https://github.com/hilalgursoy/CSS-Odev3/blob/master/css-odev3.jpg)
 
 ## Installation
 Öncelikle projeyi clonelayın.
